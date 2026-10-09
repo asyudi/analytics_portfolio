@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# dbt runtime artifacts and packages
+analytics_project/target/
+analytics_project/dbt_packages/
+analytics_project/logs/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
